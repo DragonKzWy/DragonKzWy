@@ -2,44 +2,45 @@
 
 <p align="left">
   
-   # 👋 Sobre mim  
+   # 👋 About Me  
 
-Olá! Meu nome é Wesley, sou **Analista de Segurança da Informação em início de carreira**, com mais de **15 anos de experiência em TI** como técnico de manutenção e suporte. Atualmente, trabalho como **Analista de Suporte na Uncisal**, onde contribuo há quase 5 anos.  
+Hello! My name is Wesley, and I am a **junior Information Security Analyst** with over **15 years of experience in IT** as a maintenance and support technician. Currently, I work as a **Support Analyst at Uncisal**, where I have been contributing for almost five years.  
 
-Estou em uma jornada de transição de carreira para o desenvolvimento, com foco em **Ruby**. Minha meta é unir minha experiência em suporte técnico e segurança com a programação, criando soluções robustas e seguras.  
-
----
-
-## 🚀 O que estou fazendo agora  
-- 💻 **Aprendendo Ruby** para criar aplicações modernas e seguras.  
-- 🛡️ Expandindo conhecimentos em **Segurança da Informação**, com foco em boas práticas de desenvolvimento.  
-- 🔍 Explorando maneiras de integrar minha experiência em TI com novas habilidades em desenvolvimento.  
+I am transitioning my career into development, focusing on **Ruby**. My goal is to combine my experience in technical support and security with programming, creating robust and secure solutions.  
 
 ---
 
-## 🌟 Habilidades destacadas  
-- **TI e Suporte Técnico**: Mais de 15 anos de experiência com manutenção, redes e atendimento ao usuário.  
-- **Segurança da Informação**: Certificações e conhecimento em gerenciamento de vulnerabilidades, análise de malwares e segurança em cloud.  
-- **Dev em formação**: Focado em Ruby, com interesse em aplicar boas práticas de código seguro.  
+## 🚀 What I'm Doing Now  
+- 💻 **Learning Ruby** to build modern and secure applications.  
+- 🛡️ Expanding my knowledge in **Information Security**, focusing on secure development practices.  
+- 🔍 Exploring ways to integrate my IT experience with new development skills.  
 
 ---
 
-## 💡 Objetivo  
-Meu objetivo é me especializar no desenvolvimento com Ruby, contribuindo para projetos que priorizem segurança, eficiência e inovação. Estou aberto a colaborações e aprendizado contínuo!  
+## 🌟 Key Skills  
+- **IT & Technical Support**: Over 15 years of experience in maintenance, networking, and user support.  
+- **Information Security**: Certifications and expertise in vulnerability management, malware analysis, and cloud security.  
+- **Aspiring Developer**: Focused on Ruby, aiming to apply secure coding best practices.  
+
+---
+
+## 💡 Goal  
+My goal is to specialize in Ruby development, contributing to projects that prioritize security, efficiency, and innovation. I am open to collaborations and continuous learning!  
 
 </p>
+
+
+  Languages: **Ruby**
+
+
+
+  Tools: **Visual Studio Code**
+
 
 <p align="left">
-  Linguagens: **Ruby**
+  If you want to reach me, here are my social networks: ⤵️
 </p>
 
-<p align="left">
-  Ferramentas: **Visual Studio Code**
-</p>
-
-<p align="left">
-  Caso queira me encontrar, aqui estão as minhas redes sociais: ⤵️
-</p>
 
 <p align="left">
   <a href="mailto:wesley.silva.need@gmail.com" title="Gmail">
