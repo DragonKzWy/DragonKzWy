@@ -38,6 +38,10 @@ My goal is to specialize in Ruby development, contributing to projects that prio
 
   Tools: **Visual Studio Code**
 
+<a href="https://github.com/DragonKzWy" title="Wesley Profile">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DragonKzWy&theme=dracula&show_icons=true" />
+</a>
+
 
 <p align="left">
   If you want to reach me, here are my social networks: ⤵️
