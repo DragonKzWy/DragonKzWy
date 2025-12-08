@@ -91,9 +91,9 @@ Evoluir como DevOps Engineer / Cloud Engineer / DevSecOps, criando soluções au
 
 📫 Contato
 
-LinkedIn: adicione aqui
+LinkedIn: https://www.linkedin.com/in/wellsantsilva/
 
-E-mail: adicione aqui
+E-mail: wesley.silva.need@gmail.com
 
 📌 Stack Principal
 
@@ -187,9 +187,9 @@ To grow as a DevOps Engineer / Cloud Engineer / DevSecOps Professional, contribu
 
 📫 Contact
 
-LinkedIn: add your link here
+LinkedIn: https://www.linkedin.com/in/wellsantsilva/
 
-Email: add your email here
+E-mail: wesley.silva.need@gmail.com
 
 📌 Tech Stack
 
