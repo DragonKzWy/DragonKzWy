@@ -4,36 +4,196 @@
 
 ![](https://komarev.com/ghpvc/?username=DragonKzWy&color=006bed)
   
-   # 👋 About Me  
+👋 Olá, eu sou o Wesley Santos
+Estudante de DevOps & Cloud | 15+ anos em TI | Transição para DevOps / Cloud / SecOps
 
-Hello! My name is Wesley, and I am a **junior Information Security Analyst** with over **15 years of experience in IT** as a maintenance and support technician. Currently, I work as a **Support Analyst at Uncisal**, where I have been contributing for almost five years.  
+Sou um profissional de TI brasileiro com mais de 15 anos de experiência em infraestrutura, suporte e segurança.
+Hoje estou em transição para a área de DevOps / Cloud, construindo uma base sólida em:
 
-I am transitioning my career into development, focusing on **Ruby**. My goal is to combine my experience in technical support and security with programming, creating robust and secure solutions.  
+Automação & CI/CD
 
----
+Cloud Computing
 
-## 🚀 What I'm Doing Now  
-- 💻 **Learning Ruby** to build modern and secure applications.  
-- 🛡️ Expanding my knowledge in **Information Security**, focusing on secure development practices.  
-- 🔍 Exploring ways to integrate my IT experience with new development skills.  
+Containers (Docker, Kubernetes, OpenShift)
 
----
+Microserviços & Serverless
 
-## 🌟 Key Skills  
-- **IT & Technical Support**: Over 15 years of experience in maintenance, networking, and user support.  
-- **Information Security**: Certifications and expertise in vulnerability management, malware analysis, and cloud security.  
-- **Aspiring Developer**: Focused on Ruby, aiming to apply secure coding best practices.  
+Linux & Scripting
 
----
+Fundamentos de DevSecOps
 
-## 💡 Goal  
-My goal is to specialize in Ruby development, contributing to projects that prioritize security, efficiency, and innovation. I am open to collaborations and continuous learning!  
+Meu objetivo é unir minha vivência em suporte e segurança com práticas modernas de DevOps e Cloud para criar ambientes mais seguros, escaláveis e automatizados.
 
-</p>
+🚀 O que estou fazendo atualmente
+
+Concluindo a Certificação IBM DevOps Professional (Coursera)
+
+Estudando:
+
+Pipelines CI/CD
+
+Segurança para DevOps
+
+Monitoramento e Observabilidade
+
+Projeto Final (Capstone)
+
+Praticando Docker + Kubernetes
+
+Criando e documentando projetos para portfólio
+
+Aprimorando Python para automações
+
+🛠️ Habilidades & Tecnologias
+DevOps / Cloud
+
+CI/CD • GitHub Actions • Tekton • Jenkins
+
+Docker • Docker Compose
+
+Kubernetes • OpenShift
+
+Microserviços e serverless
+
+Prometheus & Grafana (em aprendizado)
+
+Segurança / DevSecOps
+
+Análise de vulnerabilidades
+
+Secure Coding
+
+Segurança em containers
+
+Fundamentos de incident response
+
+Programação & Scripting
+
+Python (em desenvolvimento)
+
+Bash
+
+Ruby (básico)
+
+Infraestrutura / Suporte
+
++15 anos em suporte técnico, manutenção e troubleshooting
+
+Redes
+
+Linux e Windows
+
+Virtualização
+
+🎯 Objetivo Profissional
+
+Evoluir como DevOps Engineer / Cloud Engineer / DevSecOps, criando soluções automatizadas, seguras e escaláveis — sempre aprendendo e contribuindo com projetos reais.
+
+📫 Contato
+
+LinkedIn: adicione aqui
+
+E-mail: adicione aqui
+
+📌 Stack Principal
+
+Docker | Kubernetes | Linux | Python | Git | CI/CD | Cloud (aprendizado) | Security | Ruby (básico)
 
 
-  Languages: **Ruby**
+👋 Hi, I'm Wesley Santos
+DevOps & Cloud Engineering Student | 15+ years in IT | Transitioning to DevOps / Cloud / SecOps
 
+I am a Brazilian IT professional with over 15 years of experience in infrastructure, technical support, and security.
+I’m currently transitioning into DevOps and Cloud Engineering, building a solid foundation in:
+
+Automation & CI/CD
+
+Cloud Computing
+
+Docker, Kubernetes & OpenShift
+
+Microservices & Serverless
+
+Linux & Scripting
+
+DevSecOps Fundamentals
+
+My goal is to combine my background in infrastructure and security with modern DevOps practices to build secure, automated, and scalable environments.
+
+🚀 What I'm Working On Now
+
+Completing the IBM DevOps Professional Certificate (Coursera)
+
+Studying and practicing:
+
+CI/CD pipeline design
+
+Application security for DevOps
+
+Monitoring and Observability
+
+DevOps Capstone Project
+
+Hands-on learning with Docker + Kubernetes
+
+Building real projects for my DevOps portfolio
+
+Improving Python for automation and tooling
+
+🛠️ Skills & Technologies
+DevOps / Cloud
+
+CI/CD • GitHub Actions • Tekton • Jenkins
+
+Docker • Docker Compose
+
+Kubernetes • OpenShift
+
+Microservices & serverless
+
+Prometheus & Grafana (learning)
+
+Security / DevSecOps
+
+Vulnerability analysis
+
+Secure Coding principles
+
+Container security
+
+Basic incident response
+
+Programming & Scripting
+
+Python (in progress)
+
+Bash scripting
+
+Ruby (basics)
+
+IT Infrastructure
+
+15+ years of technical support and troubleshooting
+
+Networking fundamentals
+
+Linux & Windows
+
+Virtualization
+
+🎯 Career Goal
+
+To grow as a DevOps Engineer / Cloud Engineer / DevSecOps Professional, contributing to secure, automated, and scalable infrastructures — while continuously learning and delivering real-world solutions.
+
+📫 Contact
+
+LinkedIn: add your link here
+
+Email: add your email here
+
+📌 Tech Stack
+
+Docker | Kubernetes | Linux | Python | Git | CI/CD | Cloud (learning) | Security | Ruby (basics)
 
 
   Tools: **Visual Studio Code**
