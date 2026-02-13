@@ -1,220 +1,92 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 ![](https://komarev.com/ghpvc/?username=DragonKzWy&color=006bed)
-  
-👋 Olá, eu sou o Wesley Santos
-Estudante de DevOps & Cloud | 15+ anos em TI | Transição para DevOps / Cloud / SecOps
 
-Sou um profissional de TI brasileiro com mais de 15 anos de experiência em infraestrutura, suporte e segurança.
-Hoje estou em transição para a área de DevOps / Cloud, construindo uma base sólida em:
+# 👋 Hi, I'm Wesley Santos
 
-Automação & CI/CD
+Senior Technical Support Engineer | DevOps Professional | Cloud & Infrastructure Enthusiast  
 
-Cloud Computing
+Brazilian IT professional with 8+ years of experience in technical support, infrastructure, and mission-critical environments. Recently completed the **IBM Applied DevOps Engineering Professional Certificate**, strengthening my expertise in CI/CD, containers, cloud-native deployment, security, and observability.
 
-Containers (Docker, Kubernetes, OpenShift)
+I combine strong troubleshooting skills with modern DevOps practices to build reliable, automated, and scalable systems.
 
-Microserviços & Serverless
+---
 
-Linux & Scripting
+## 🚀 Professional Focus
 
-Fundamentos de DevSecOps
+- DevOps & Cloud Engineering
+- Infrastructure Reliability
+- CI/CD & Automation
+- Monitoring & Observability
+- Secure Application Deployment
 
-Meu objetivo é unir minha vivência em suporte e segurança com práticas modernas de DevOps e Cloud para criar ambientes mais seguros, escaláveis e automatizados.
+Currently open to opportunities as:
+**DevOps Junior | DevOps Engineer | Cloud Support Engineer | SRE (Junior)**
 
-🚀 O que estou fazendo atualmente
+---
 
-Concluindo a Certificação IBM DevOps Professional (Coursera)
+## 🛠️ Technical Skills
 
-Estudando:
+### DevOps & Cloud
+- CI/CD (GitHub Actions, Tekton, Jenkins)
+- Docker & Docker Compose
+- Kubernetes & OpenShift
+- Microservices & Serverless Architecture
+- Monitoring & Observability (OpenTelemetry, Prometheus concepts)
+- Linux environments
 
-Pipelines CI/CD
+### Security & DevSecOps
+- Application Security Fundamentals
+- Secure Coding Practices
+- Container Security Concepts
+- Vulnerability Analysis Basics
 
-Segurança para DevOps
+### Programming & Scripting
+- Python (automation-focused)
+- Bash scripting
 
-Monitoramento e Observabilidade
+### Infrastructure & Support
+- Advanced troubleshooting
+- Networking fundamentals (IP, DHCP, routing basics)
+- Windows & Linux systems
+- Virtualization concepts
+- Incident prioritization in critical environments
 
-Projeto Final (Capstone)
+---
 
-Praticando Docker + Kubernetes
+## 🎓 Certifications
 
-Criando e documentando projetos para portfólio
+**IBM Applied DevOps Engineering – Professional Certificate (2026)**  
+Completed 9-course program including hands-on labs and capstone project covering:
 
-Aprimorando Python para automações
+- Containers & Kubernetes
+- CI/CD pipelines
+- Microservices & Serverless
+- Application Security
+- Monitoring & Observability
+- DevOps Capstone Project
 
-🛠️ Habilidades & Tecnologias
-DevOps / Cloud
+---
 
-CI/CD • GitHub Actions • Tekton • Jenkins
+## 🎯 Career Objective
 
-Docker • Docker Compose
+To contribute to high-performance engineering teams by applying DevOps principles, automation, and reliability practices — while continuously evolving technically and professionally.
 
-Kubernetes • OpenShift
+---
 
-Microserviços e serverless
+## 📫 Contact
 
-Prometheus & Grafana (em aprendizado)
+LinkedIn: https://www.linkedin.com/in/wellsantsilva/  
+Email: wesley.silva.need@gmail.com  
 
-Segurança / DevSecOps
+---
 
-Análise de vulnerabilidades
+## 📊 GitHub Stats
 
-Secure Coding
-
-Segurança em containers
-
-Fundamentos de incident response
-
-Programação & Scripting
-
-Python (em desenvolvimento)
-
-Bash
-
-Ruby (básico)
-
-Infraestrutura / Suporte
-
-+15 anos em suporte técnico, manutenção e troubleshooting
-
-Redes
-
-Linux e Windows
-
-Virtualização
-
-🎯 Objetivo Profissional
-
-Evoluir como DevOps Engineer / Cloud Engineer / DevSecOps, criando soluções automatizadas, seguras e escaláveis — sempre aprendendo e contribuindo com projetos reais.
-
-📫 Contato
-
-LinkedIn: https://www.linkedin.com/in/wellsantsilva/
-
-E-mail: wesley.silva.need@gmail.com
-
-📌 Stack Principal
-
-Docker | Kubernetes | Linux | Python | Git | CI/CD | Cloud (aprendizado) | Security | Ruby (básico)
-
-
-👋 Hi, I'm Wesley Santos
-DevOps & Cloud Engineering Student | 15+ years in IT | Transitioning to DevOps / Cloud / SecOps
-
-I am a Brazilian IT professional with over 15 years of experience in infrastructure, technical support, and security.
-I’m currently transitioning into DevOps and Cloud Engineering, building a solid foundation in:
-
-Automation & CI/CD
-
-Cloud Computing
-
-Docker, Kubernetes & OpenShift
-
-Microservices & Serverless
-
-Linux & Scripting
-
-DevSecOps Fundamentals
-
-My goal is to combine my background in infrastructure and security with modern DevOps practices to build secure, automated, and scalable environments.
-
-🚀 What I'm Working On Now
-
-Completing the IBM DevOps Professional Certificate (Coursera)
-
-Studying and practicing:
-
-CI/CD pipeline design
-
-Application security for DevOps
-
-Monitoring and Observability
-
-DevOps Capstone Project
-
-Hands-on learning with Docker + Kubernetes
-
-Building real projects for my DevOps portfolio
-
-Improving Python for automation and tooling
-
-🛠️ Skills & Technologies
-DevOps / Cloud
-
-CI/CD • GitHub Actions • Tekton • Jenkins
-
-Docker • Docker Compose
-
-Kubernetes • OpenShift
-
-Microservices & serverless
-
-Prometheus & Grafana (learning)
-
-Security / DevSecOps
-
-Vulnerability analysis
-
-Secure Coding principles
-
-Container security
-
-Basic incident response
-
-Programming & Scripting
-
-Python (in progress)
-
-Bash scripting
-
-Ruby (basics)
-
-IT Infrastructure
-
-15+ years of technical support and troubleshooting
-
-Networking fundamentals
-
-Linux & Windows
-
-Virtualization
-
-🎯 Career Goal
-
-To grow as a DevOps Engineer / Cloud Engineer / DevSecOps Professional, contributing to secure, automated, and scalable infrastructures — while continuously learning and delivering real-world solutions.
-
-📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/wellsantsilva/
-
-E-mail: wesley.silva.need@gmail.com
-
-📌 Tech Stack
-
-Docker | Kubernetes | Linux | Python | Git | CI/CD | Cloud (learning) | Security | Ruby (basics)
-
-
-  Tools: **Visual Studio Code**
-
-<a href="https://github.com/DragonKzWy" title="Wesley Profile">
+<a href="https://github.com/DragonKzWy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DragonKzWy&theme=dracula&show_icons=true" />
 </a>
 
+---
 
-<p align="left">
-  If you want to reach me, here are my social networks: ⤵️
-</p>
-
-
-<p align="left">
-  <a href="mailto:wesley.silva.need@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=wesley.silva.need@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/wellsantsilva/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellsantsilva/" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5582996085843" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5582996085843" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/well.wy/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/well.wy/" alt="Instagram"/></a>
-</p>
+If you'd like to connect, feel free to reach out.
