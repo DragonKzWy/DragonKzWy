@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Wesley Santos
 
-Senior Technical Support Engineer | DevOps Professional | Cloud & Infrastructure Enthusiast  
+Senior Technical Support Engineer → DevOps & Cloud Engineer
 
 Brazilian IT professional with 8+ years of experience in technical support, infrastructure, and mission-critical environments. Recently completed the **IBM Applied DevOps Engineering Professional Certificate**, strengthening my expertise in CI/CD, containers, cloud-native deployment, security, and observability.
 
@@ -89,6 +89,23 @@ Python • GitHub Actions • Docker
 
 Repository:
 https://github.com/DragonKzWy/ci-cd-final-project
+
+---
+
+## ☁️ Cloud Journey
+
+Currently expanding my expertise in AWS cloud architecture and infrastructure automation.
+
+Focus areas:
+
+• AWS infrastructure  
+• Infrastructure as Code (Terraform)  
+• Container orchestration  
+• Observability and reliability engineering
+---
+
+## Architecture Example
+
 
 ---
 
