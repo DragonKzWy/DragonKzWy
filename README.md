@@ -12,7 +12,25 @@ I combine strong troubleshooting skills with modern DevOps practices to build re
 
 ---
 
-## 🚀 Professional Focus
+# ⚙️ Tech Stack
+
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+# ⚡ CI/CD Status
+
+[![Fluxo de trabalho de CI](https://github.com/DragonKzWy/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/DragonKzWy/ci-cd-final-project/actions/workflows/workflow.yml)
+
+---
+
+# 🚀 Professional Focus
 
 - DevOps & Cloud Engineering
 - Infrastructure Reliability
@@ -21,13 +39,41 @@ I combine strong troubleshooting skills with modern DevOps practices to build re
 - Secure Application Deployment
 
 Currently open to opportunities as:
+
 **DevOps Junior | DevOps Engineer | Cloud Support Engineer | SRE (Junior)**
 
 ---
 
-## 🛠️ Technical Skills
+# 🔧 Featured Projects
 
-### DevOps & Cloud
+### DevOps Capstone Project
+
+End-to-end DevOps project implementing CI/CD pipelines, containerized services and automated deployments.
+
+Tech stack  
+Python • Docker • Kubernetes • CI/CD
+
+Repository  
+https://github.com/DragonKzWy/devops-capstone-project
+
+---
+
+### CI/CD Pipeline Implementation
+
+Implementation of automated build and testing pipelines using GitHub Actions.
+
+Tech stack  
+Python • GitHub Actions • Docker
+
+Repository  
+https://github.com/DragonKzWy/ci-cd-final-project
+
+---
+
+# 🛠 Technical Skills
+
+## DevOps & Cloud
+
 - CI/CD (GitHub Actions, Tekton, Jenkins)
 - Docker & Docker Compose
 - Kubernetes & OpenShift
@@ -35,17 +81,20 @@ Currently open to opportunities as:
 - Monitoring & Observability (OpenTelemetry, Prometheus concepts)
 - Linux environments
 
-### Security & DevSecOps
+## Security & DevSecOps
+
 - Application Security Fundamentals
 - Secure Coding Practices
 - Container Security Concepts
 - Vulnerability Analysis Basics
 
-### Programming & Scripting
+## Programming & Scripting
+
 - Python (automation-focused)
 - Bash scripting
 
-### Infrastructure & Support
+## Infrastructure & Support
+
 - Advanced troubleshooting
 - Networking fundamentals (IP, DHCP, routing basics)
 - Windows & Linux systems
@@ -54,9 +103,31 @@ Currently open to opportunities as:
 
 ---
 
-## 🎓 Certifications
+# ☁️ Cloud Journey
+
+Currently expanding my expertise in AWS cloud architecture and infrastructure automation.
+
+Focus areas
+
+- AWS infrastructure  
+- Infrastructure as Code (Terraform)  
+- Container orchestration  
+- Observability and reliability engineering
+
+---
+
+# 🏗 Example Cloud Architecture
+
+<p align="center">
+  <img src="assets/architecture-diagram.png" width="700">
+</p>
+
+---
+
+# 🎓 Certifications
 
 **IBM Applied DevOps Engineering – Professional Certificate (2026)**  
+
 Completed 9-course program including hands-on labs and capstone project covering:
 
 - Containers & Kubernetes
@@ -68,64 +139,23 @@ Completed 9-course program including hands-on labs and capstone project covering
 
 ---
 
-## 🔧 Featured Projects
-
-### DevOps Capstone Project
-End-to-end DevOps project implementing CI/CD pipelines, containerized services, and automated deployment workflows.
-
-Tech stack:
-Python • Docker • CI/CD • Kubernetes
-
-Repository:
-https://github.com/DragonKzWy/devops-capstone-project
-
----
-
-### CI/CD Pipeline Implementation
-Implementation of automated build and testing pipelines using GitHub Actions.
-
-Tech stack:
-Python • GitHub Actions • Docker
-
-Repository:
-https://github.com/DragonKzWy/ci-cd-final-project
-
----
-
-## ☁️ Cloud Journey
-
-Currently expanding my expertise in AWS cloud architecture and infrastructure automation.
-
-Focus areas:
-
-• AWS infrastructure  
-• Infrastructure as Code (Terraform)  
-• Container orchestration  
-• Observability and reliability engineering
----
-
-## 🏗 Example Cloud Architecture
-
-<p align="center">
-  <img src="assets/architecture-diagram.png" width="700">
-</p>
-
----
-
-## 🎯 Career Objective
+# 🎯 Career Objective
 
 To contribute to high-performance engineering teams by applying DevOps principles, automation, and reliability practices — while continuously evolving technically and professionally.
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/wellsantsilva/  
-Email: wesley.silva.need@gmail.com  
+LinkedIn  
+https://www.linkedin.com/in/wellsantsilva/
+
+Email  
+wesley.silva.need@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <a href="https://github.com/DragonKzWy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DragonKzWy&theme=dracula&show_icons=true" />
