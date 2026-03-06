@@ -104,8 +104,11 @@ Focus areas:
 • Observability and reliability engineering
 ---
 
-## Architecture Example
+## 🏗 Example Cloud Architecture
 
+<p align="center">
+  <img src="images/architecture-diagram.png" width="700">
+</p>
 
 ---
 
