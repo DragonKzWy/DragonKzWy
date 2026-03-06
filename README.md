@@ -4,11 +4,11 @@
 
 # 👋 Hi, I'm Wesley Santos
 
-Senior Technical Support Engineer → DevOps & Cloud Engineer
+**Senior Technical Support Engineer → DevOps & Cloud Engineer**
 
-Brazilian IT professional with 8+ years of experience in technical support, infrastructure, and mission-critical environments. Recently completed the **IBM Applied DevOps Engineering Professional Certificate**, strengthening my expertise in CI/CD, containers, cloud-native deployment, security, and observability.
+Brazilian IT professional with **8+ years of experience in technical support, infrastructure, and mission-critical environments**. Recently completed the **IBM Applied DevOps Engineering Professional Certificate**, strengthening my expertise in **CI/CD, containers, cloud-native deployment, security, and observability**.
 
-I combine strong troubleshooting skills with modern DevOps practices to build reliable, automated, and scalable systems.
+I combine strong troubleshooting skills with modern DevOps practices to build **reliable, automated, and scalable systems**.
 
 ---
 
@@ -26,7 +26,7 @@ I combine strong troubleshooting skills with modern DevOps practices to build re
 
 # ⚡ CI/CD Status
 
-[![Fluxo de trabalho de CI](https://github.com/DragonKzWy/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/DragonKzWy/ci-cd-final-project/actions/workflows/workflow.yml)
+[![CI Workflow](https://github.com/DragonKzWy/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/DragonKzWy/ci-cd-final-project/actions/workflows/workflow.yml)
 
 ---
 
@@ -44,28 +44,20 @@ Currently open to opportunities as:
 
 ---
 
-# 🔧 Featured Projects
+## 🚀 Key DevOps Projects
 
 ### DevOps Capstone Project
+End-to-end DevOps implementation with CI/CD pipelines and containerized deployment.
 
-End-to-end DevOps project implementing CI/CD pipelines, containerized services and automated deployments.
-
-Tech stack  
-Python • Docker • Kubernetes • CI/CD
-
-Repository  
+Repository:  
 https://github.com/DragonKzWy/devops-capstone-project
 
 ---
 
 ### CI/CD Pipeline Implementation
+Automated build and testing pipelines using GitHub Actions.
 
-Implementation of automated build and testing pipelines using GitHub Actions.
-
-Tech stack  
-Python • GitHub Actions • Docker
-
-Repository  
+Repository:  
 https://github.com/DragonKzWy/ci-cd-final-project
 
 ---
@@ -105,22 +97,33 @@ https://github.com/DragonKzWy/ci-cd-final-project
 
 # ☁️ Cloud Journey
 
-Currently expanding my expertise in AWS cloud architecture and infrastructure automation.
+Currently expanding my expertise in **AWS cloud architecture and infrastructure automation**.
 
-Focus areas
+Focus areas:
 
-- AWS infrastructure  
-- Infrastructure as Code (Terraform)  
-- Container orchestration  
+- AWS infrastructure
+- Infrastructure as Code (Terraform)
+- Container orchestration
 - Observability and reliability engineering
 
 ---
 
-# 🏗 Example Cloud Architecture
+# 🏗 Cloud Architecture Example
+
+Example of a containerized cloud architecture deployed on AWS.
 
 <p align="center">
-  <img src="assets/architecture-diagram.png" width="700">
+  <img src="assets/architecture-diagram.png" width="750">
 </p>
+
+Architecture components:
+
+- AWS VPC
+- Public and Private Subnets
+- EC2 instances running Docker containers
+- Load Balancer for traffic distribution
+- Amazon RDS for database persistence
+- CI/CD pipeline deploying containerized applications
 
 ---
 
@@ -141,7 +144,19 @@ Completed 9-course program including hands-on labs and capstone project covering
 
 # 🎯 Career Objective
 
-To contribute to high-performance engineering teams by applying DevOps principles, automation, and reliability practices — while continuously evolving technically and professionally.
+To contribute to **high-performance engineering teams** by applying **DevOps principles, automation, and reliability practices**, while continuously evolving technically and professionally.
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonKzWy&theme=dracula">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragonKzWy&theme=react-dark">
+</p>
 
 ---
 
@@ -151,15 +166,7 @@ LinkedIn
 https://www.linkedin.com/in/wellsantsilva/
 
 Email  
-wesley.silva.need@gmail.com
-
----
-
-# 📊 GitHub Stats
-
-<a href="https://github.com/DragonKzWy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DragonKzWy&theme=dracula&show_icons=true" />
-</a>
+wesley.silva.need@gmail.com  
 
 ---
 
