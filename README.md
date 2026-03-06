@@ -68,6 +68,30 @@ Completed 9-course program including hands-on labs and capstone project covering
 
 ---
 
+## 🔧 Featured Projects
+
+### DevOps Capstone Project
+End-to-end DevOps project implementing CI/CD pipelines, containerized services, and automated deployment workflows.
+
+Tech stack:
+Python • Docker • CI/CD • Kubernetes
+
+Repository:
+https://github.com/DragonKzWy/devops-capstone-project
+
+---
+
+### CI/CD Pipeline Implementation
+Implementation of automated build and testing pipelines using GitHub Actions.
+
+Tech stack:
+Python • GitHub Actions • Docker
+
+Repository:
+https://github.com/DragonKzWy/ci-cd-final-project
+
+---
+
 ## 🎯 Career Objective
 
 To contribute to high-performance engineering teams by applying DevOps principles, automation, and reliability practices — while continuously evolving technically and professionally.
