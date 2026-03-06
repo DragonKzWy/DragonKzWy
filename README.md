@@ -107,7 +107,7 @@ Focus areas:
 ## 🏗 Example Cloud Architecture
 
 <p align="center">
-  <img src="images/architecture-diagram.png" width="700">
+  <img src="assets/architecture-diagram.png" width="700">
 </p>
 
 ---
