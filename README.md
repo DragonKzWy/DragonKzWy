@@ -148,18 +148,6 @@ To contribute to **high-performance engineering teams** by applying **DevOps pri
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DragonKzWy&theme=dracula">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DragonKzWy&theme=react-dark">
-</p>
-
----
-
 # 📫 Contact
 
 LinkedIn  
