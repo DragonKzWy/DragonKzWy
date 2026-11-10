@@ -19,13 +19,13 @@ Own projects, labs and coursework, not paid work experience.
 
 | Proyecto | Qué muestra | Stack |
 |---|---|---|
+| [real-estate-ai-automation](https://github.com/DragonKzWy/real-estate-ai-automation) | Automatización comercial: captación, calificación de leads con IA, reglas de decisión y derivación a humano, con documentación de proyecto completa | n8n, PostgreSQL, LLM, Docker |
 | [aws-infra-lab](https://github.com/DragonKzWy/aws-infra-lab) | VPC propia, subredes, Internet Gateway, tablas de rutas, Security Groups, EC2 con Nginx | AWS, Bash |
 | [devops-capstone-project](https://github.com/DragonKzWy/devops-capstone-project) | Microservicio con CI, contenedor y manifiestos de despliegue (proyecto final IBM) | Python, Docker, Kubernetes, Tekton, GitHub Actions |
 | [devops-test](https://github.com/DragonKzWy/devops-test) | Entorno Nginx + PHP-FPM + MySQL con Docker Compose y CI | Docker, PHP, MySQL |
 | [sci-coffee-allocation](https://github.com/DragonKzWy/sci-coffee-allocation) | Aplicación Laravel con reglas de negocio de asignación | PHP, Laravel, Docker |
 | [ci-cd-final-project](https://github.com/DragonKzWy/ci-cd-final-project) | Pipeline de build y pruebas | Python, GitHub Actions |
 | [precision-agriculture-learning-journey](https://github.com/DragonKzWy/precision-agriculture-learning-journey) | Portafolio de aprendizaje en AgTech, GIS y GNSS | Markdown, QGIS |
-| Automatización comercial con IA (privado) | Captación y calificación de leads con n8n, PostgreSQL y LLM | Disponible bajo solicitud |
 | Marketplace RMG (privado) | Monorepo React + Node.js + PostgreSQL + Redis con CI/CD | Disponible bajo solicitud |
 
 ## Herramientas / Tools
